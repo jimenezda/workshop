@@ -1,1 +1,2 @@
-print("hello git and the world")
+txt = input("Type something to test this out: ")
+print("hello ", txt)
